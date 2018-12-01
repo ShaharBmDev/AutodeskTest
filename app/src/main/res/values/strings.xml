@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AutodeskTest</string>
+    <string name="error_refreshing_feed">Error refreshing feed.</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="secondary_title">Secondary Title</string>
+    <string name="article_photo">Article photo</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="could_not_load_page">This page could not be loaded.\nPlease try again later.</string>
+</resources>
